@@ -12,7 +12,9 @@ Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, ett
 Makerspacessa on tällä hetkellä käytössäsi 3D-tulostin **Ultimaker 3**.
 Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juotinasema**.
 
-![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/kolviiii.jpg "Kolvi")
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/tulostin.jpg "")
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/kolviii.jpg "")
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/poyta.jpg "")
 
 Käytössäsi olevat komponentit:
 ```markdown
