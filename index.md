@@ -21,7 +21,8 @@ Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juo
 
 Käytössäsi olevat komponentit:
 ```markdown
-Komponentit
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/thinkin_komponentit.txt "")
+
 ```
 
 Katso tarkempi lista [täältä](# "täältä").
