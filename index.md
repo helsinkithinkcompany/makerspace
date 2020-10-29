@@ -20,8 +20,9 @@ Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juo
 ![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/poyta.jpg "")
 
 Käytössäsi olevat komponentit:
-```markdown
 ![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/thinkin_komponentit.txt "")
+```markdown
+jee
 
 ```
 
