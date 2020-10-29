@@ -10,10 +10,13 @@ Monia vastaavanlaisia pajoja on Helsingin seudulla melko vähän ja useimmat har
 Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, että sijaitsemme Kumpulan kampuksella, jonka takia paja on lähellä esimerkiksi kampuksella opiskelevia opiskelijoita. Tilan käyttämistä varten ei myöskään tarvitse varata aikaa, vaan tilaan voi tulla piipahtamaan milloin tahansa. Lisäksi Makerspacen käyttäminen on toistaiseksi ilmaista ja isompia projekteja on mahdollista ostaa omaksi pientä maksua vastaan.
 #### Mitä Makerspacessa sitten voi tehdä?
 Makerspacessa on tällä hetkellä käytössäsi 3D-tulostin **Ultimaker 3**.
-Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juotinasema**.
 
 ![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/tulostin.jpg "")
-![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/kolviii.jpg "")
+
+Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juotinasema**.
+
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/kolviiii.jpg "")
+
 ![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/poyta.jpg "")
 
 Käytössäsi olevat komponentit:
