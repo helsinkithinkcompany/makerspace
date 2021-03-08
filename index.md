@@ -11,13 +11,13 @@ Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, ett
 #### Mitä Makerspacessa sitten voi tehdä?
 Makerspacessa on tällä hetkellä käytössäsi 3D-tulostin **Ultimaker 3**.
 
-![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/tulostin.jpg "")
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/gh-pages/tulostin.jpg "")
 
 Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juotinasema**.
 
-![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/kolviiii.jpg "")
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/gh-pages/kolviiii.jpg "")
 
-![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/master/poyta.jpg "")
+![alt text](https://raw.githubusercontent.com/helsinkithinkcompany/makerspace/gh-pages/poyta.jpg "")
 
 Käytössäsi olevat komponentit:
 ```markdown
