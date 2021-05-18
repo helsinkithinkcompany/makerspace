@@ -22,6 +22,16 @@ Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juo
 ![alt_text](img/poyta.jpg)
 <img src="img/poyta.jpg" class="img-responsive" alt=""> </div>
 
+Työkaluina pajalta löytyy:
+```markdown
+0-30V 0-5A virtalähde
+Weller 1010 -kolvi
+Brymen bm235 True RMS yleismittari
+
+Pajalle on tulossa myös pieni pylväsporakone, jolla voi porata reikiä piirilevyihin ja koteloihin.
+
+Mikäli toiveita tulee tarpeeksi, pajalle voidaan hankkia SLA tulostin ja/tai toinen FDM-tulostin sekä oskilloskooppi ja/tai signaaligeneraattori jos näille koetaan olevan tarvetta.
+```
 Käytössäsi olevat komponentit:
 ```markdown
 ??? x Raspberry PI (mallit?)
