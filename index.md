@@ -24,7 +24,35 @@ Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juo
 
 Käytössäsi olevat komponentit:
 ```markdown
+??? x Raspberry PI (mallit?)
+5 x ESP32
+8 x ESP01-S
+10 x Arduino UNO
+
+20 x TB6612FNG dual motor driver
+10 x DS1820 temperature sensor
+10 x 16channel 12-bit Servo driver
+15 x Ultrasonic sensor
+10 x mini360 dc buck converter 2A
+10 x DC-DC buck converter 3A (12-24v -> 1.8-5v)
+20 x MB-102 power supply
+20 x buzz sensor
+20 x DRV8833 motor driver
+20 x DRV8825 NEMA stepper motor driver
+3 x USB to UART (TTL) cable
+3 x USBASP AVR Programmer
+20 x MB-102 breadboard
+
+Vastuksia, kondensaattoreita, keloja, kiteitä, diodeja, transistoreja, ledejä, hyppylankoja
+DIC IC socketteja, 555 timereita, shift registereita, ATTINY85:a.
+Perfboardeja, nappeja, liittimiä, usb-portteja, spacereita, ruuveja yms.
 
 ```
+
+Tarpeen mukaan kaikkea kohtuuhintaista voidaan tilata :)
+Pistä tilaustoiveesi minulle sähköpostilla
+
+Aarni Nordström
+aarni@thinkcompany.fi
 
 Katso tarkempi lista [täältä](# "täältä").
