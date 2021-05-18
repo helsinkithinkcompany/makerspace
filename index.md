@@ -2,12 +2,12 @@
 
 #### Mikä on Makerspace?
 
-Makerspace on Helsinki Think Companyn tiloissa pian toimintansa aloittava pieni paja, jossa voit oppia esimerkiksi tulostamaan 3D-tulostimella, kolvata elektroniikkaa, rakentaa pieniä DIY-projekteja arduinoilla ja Raspberry PI:llä, korjata omia tavaroitasi ja laitteitasi tai vaikka vain lainata ruuvimeisseliä polkupyörän ruuvien kiristämiseen. Pajalla on syksyllä 2021 tarkoitus aloittaa pienimuotoinen ryhmätoiminta, jossa voit oppia 3D-mallinnuksen perusteita ja tulostamaan oman tulosteen sekä tekemään pieniä opettavaisia projekteja Arduino-mikro-ohjaimella.
+<p style='text-align: justify;'>Makerspace on Helsinki Think Companyn tiloissa pian toimintansa aloittava pieni paja, jossa voit oppia esimerkiksi tulostamaan 3D-tulostimella, kolvata elektroniikkaa, rakentaa pieniä DIY-projekteja arduinoilla ja Raspberry PI:llä, korjata omia tavaroitasi ja laitteitasi tai vaikka vain lainata ruuvimeisseliä polkupyörän ruuvien kiristämiseen. Pajalla on syksyllä 2021 tarkoitus aloittaa pienimuotoinen ryhmätoiminta, jossa voit oppia 3D-mallinnuksen perusteita ja tulostamaan oman tulosteen sekä tekemään pieniä opettavaisia projekteja Arduino-mikro-ohjaimella.</p>
 
 #### Miksi Makerspace?
 
-Monia vastaavanlaisia pajoja on Helsingin seudulla melko vähän ja useimmat harrastelijaverstaista on melko kaukana ydinkeskustasta. Otaniemessä on Aalto-yliopiston opiskeijoille tarkoitettuja verstaita, jotka ovat myös verrattain kaukana Helsingin keskustassa ja Itä-Helsingissä asuville. Nykyään on olemassa myös kaupunkiverstas keskuskirjasto Oodissa, mutta jonka palvelujen käyttäminen vaatii ajanvarausta.
-Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, että sijaitsemme Kumpulan kampuksella, jonka takia paja on lähellä esimerkiksi kampuksella opiskelevia opiskelijoita. Tilan käyttämistä varten ei myöskään tarvitse varata aikaa, vaan tilaan voi tulla piipahtamaan milloin tahansa. Lisäksi Makerspacen käyttäminen on toistaiseksi ilmaista ja isompia projekteja on mahdollista ostaa omaksi pientä maksua vastaan.
+<p style='text-align: justify;'>Monia vastaavanlaisia pajoja on Helsingin seudulla melko vähän ja useimmat harrastelijaverstaista on melko kaukana ydinkeskustasta. Otaniemessä on Aalto-yliopiston opiskeijoille tarkoitettuja verstaita, jotka ovat myös verrattain kaukana Helsingin keskustassa ja Itä-Helsingissä asuville. Nykyään on olemassa myös kaupunkiverstas keskuskirjasto Oodissa, mutta jonka palvelujen käyttäminen vaatii ajanvarausta.
+Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, että sijaitsemme Kumpulan kampuksella, jonka takia paja on lähellä esimerkiksi kampuksella opiskelevia opiskelijoita. Tilan käyttämistä varten ei myöskään tarvitse varata aikaa, vaan tilaan voi tulla piipahtamaan milloin tahansa. Lisäksi Makerspacen käyttäminen on toistaiseksi ilmaista ja isompia projekteja on mahdollista ostaa omaksi pientä maksua vastaan.</p>
 
 #### Mitä Makerspacessa sitten voi tehdä?
 Makerspacessa on tällä hetkellä käytössäsi 3D-tulostin **Ultimaker 3**.
@@ -26,9 +26,9 @@ Työkaluina pajalta löytyy:
 Weller 1010 -kolvi
 Brymen bm235 True RMS yleismittari
 
-Pajalle on tulossa myös pieni pylväsporakone, jolla voi porata reikiä piirilevyihin ja koteloihin.
+<p style='text-align: justify;'>Pajalle on tulossa myös pieni pylväsporakone, jolla voi porata reikiä piirilevyihin ja koteloihin.
 
-Mikäli toiveita tulee tarpeeksi, pajalle voidaan hankkia SLA tulostin ja/tai toinen FDM-tulostin sekä oskilloskooppi ja/tai signaaligeneraattori jos näille koetaan olevan tarvetta.
+Mikäli toiveita tulee tarpeeksi, pajalle voidaan hankkia SLA tulostin ja/tai toinen FDM-tulostin sekä oskilloskooppi ja/tai signaaligeneraattori jos näille koetaan olevan tarvetta.</p>
 ```
 Käytössäsi olevat komponentit:
 ```markdown
