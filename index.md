@@ -11,7 +11,7 @@ Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, ett
 #### Mitä Makerspacessa sitten voi tehdä?
 Makerspacessa on tällä hetkellä käytössäsi 3D-tulostin **Ultimaker 3**.
 
-<img scr="img/tulostin.jpg"/>
+![alt_text]("img/tulostin.jpg")
 
 Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juotinasema**.
 
