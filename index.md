@@ -12,12 +12,15 @@ Tässä mielessä Kumpulan Makerspace eroaa näistä muista tiloista sillä, ett
 Makerspacessa on tällä hetkellä käytössäsi 3D-tulostin **Ultimaker 3**.
 
 ![alt_text](img/tulostin.jpg)
+<img src="img/tulostin.jpg" class="img-responsive" alt=""> </div>
 
 Lisäksi käytössäsi on elektroniikan kolvaamista varten **Weller WE 1010 -juotinasema**.
 
 ![alt_text](img/kolviiii.jpg)
+<img src="img/kolviiii.jpg" class="img-responsive" alt=""> </div>
 
 ![alt_text](img/poyta.jpg)
+<img src="img/poyta.jpg" class="img-responsive" alt=""> </div>
 
 Käytössäsi olevat komponentit:
 ```markdown
