@@ -26,9 +26,9 @@ Työkaluina pajalta löytyy:
 Weller 1010 -kolvi
 Brymen bm235 True RMS yleismittari
 
-<p style='text-align: justify;'>Pajalle on tulossa myös pieni pylväsporakone, jolla voi porata reikiä piirilevyihin ja koteloihin.
+Pajalle on tulossa myös pieni pylväsporakone, jolla voi porata reikiä piirilevyihin ja koteloihin.
 
-Mikäli toiveita tulee tarpeeksi, pajalle voidaan hankkia SLA tulostin ja/tai toinen FDM-tulostin sekä oskilloskooppi ja/tai signaaligeneraattori jos näille koetaan olevan tarvetta.</p>
+Mikäli toiveita tulee tarpeeksi, pajalle voidaan hankkia SLA tulostin ja/tai toinen FDM-tulostin sekä oskilloskooppi ja/tai signaaligeneraattori jos näille koetaan olevan tarvetta.
 ```
 Käytössäsi olevat komponentit:
 ```markdown
